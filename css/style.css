@@ -6,10 +6,31 @@
 
 /* page header */
 .page-header{   
-    background-color: aliceblue;
-    
+    background-color: white;
+    padding: 20px, 12px;
 }
 
 .logo{
+    padding: 5px 15px;
+}
+body{
+    background-color:rgba(202, 198, 193, 0.392);
+}
 
+.page-content{
+    padding: 20px 200px;
+}
+
+/* classe che assegana un background color bianco */
+.bg-white{
+    background-color: white;
+}
+
+.container{
+    max-width: 800px;
+    padding: 50px;
+}
+
+.item{
+    padding-left: 12px;
 }
